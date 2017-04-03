@@ -8,5 +8,10 @@
       "name": "Jason Aucordier",
       "email": "jason.aucordier@greta-sud-aquitaine.academy"
     }
-  ]
+  ],
+  "autoload": {
+    "psr-4": {
+      "Game\\": "src/Game"
+    }
+  }
 }
