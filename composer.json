@@ -1,0 +1,12 @@
+{
+  "name": "jaucordi/game",
+  "description": "",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Jason Aucordier",
+      "email": "jason.aucordier@greta-sud-aquitaine.academy"
+    }
+  ]
+}
